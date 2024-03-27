@@ -1,6 +1,6 @@
 # Virtual MOLLI Target: Generative Adversarial Networks for Enhanced Motion Correction in Myocardial T1 Mapping
 
-This repository is the work of "_Virtual MOLLI Target: Generative Adversarial Networks for Enhanced Motion Correction in Myocardial T1 Mapping_" based on **pytorch** implementation. You could click the link to access the [paper](xxx).
+This repository is the work of "_Virtual MOLLI Target: Generative Adversarial Networks for Enhanced Motion Correction in Myocardial T1 Mapping_" based on **pytorch** implementation. 
 
 
 ## MedGAN Architecture
@@ -83,10 +83,3 @@ python calculate_FQI.py --data_path=results_reg/
 --data_path: The path of the registration result
 ```
 
-
-## Citation
-
-If you use our code or model in your work or find it is helpful, please cite the paper:
-```
-
-```
